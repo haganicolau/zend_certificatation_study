@@ -64,7 +64,7 @@ uma linguagem de script do lado do servidor usada para construir paginas web.
   - Por exemplo: echo nem sempre precisa de parênteses não se pode usar parênteses
 - Além disso, echo não retorna um valor, enquanto cada função sempre retornará um valor (ou nulo).
 
-###Exemplo:
+### Exemplo:
 ```php
 <?php
 /** one parameter, no brackets */
@@ -76,7 +76,8 @@ echo 'hello', 'world';
 ```
 
 >[Lista completa de palavras chaves](https://www.php.net/manual/en/reserved.php)
-###Algumas das mais usadas e explicação de uso:
+
+### Algumas das mais usadas e explicação de uso:
 - **assert**: Comando de depuração para testar uma condição.
 - **echo**: Enviando um valor para stdout.
 - **print**: Enviando um valor para stdout.
