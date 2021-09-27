@@ -8,6 +8,7 @@ ter conhecimento aprofundado em uma vasta área de tópicos da linguagem PHP.
 
 ## Sumário
 
+- [Básico PHP](BasicoPHP/README.md)
 - [Comentários](Comentarios/README.md)
 - [Operações Aritméticas](OperacoesAritmeticas/README.md)
 - [Variáveis](Variaveis/README.md)
